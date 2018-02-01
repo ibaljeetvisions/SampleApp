@@ -1,0 +1,2 @@
+# SampleApp
+This is a sample application to reproduce the error we are facing while creating build i.e on compile time of project.Given below is the error log that we were able to print when error occurred :-  Error:Execution failed for task ':app:transformClassesWithJarMergingForDebug'. > com.android.build.api.transform.TransformException: java.util.zip.ZipException: duplicate entry: android/support/v4/widget/PopupMenuCompat.class
